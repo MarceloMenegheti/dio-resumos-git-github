@@ -9,3 +9,5 @@
 | `$ git commit -m "" ` | Salva as mudanças no repositório com uma mensagem descritiva. |
 | `$ git status` | Mostra o estado atual das mudanças.|
 | `$ git log` | Exibe o histórico de commits. |
+
+## modificação para dar erro
