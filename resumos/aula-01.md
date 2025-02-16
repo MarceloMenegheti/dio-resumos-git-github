@@ -10,4 +10,6 @@
 | `$ git status` | Mostra o estado atual das mudanças.|
 | `$ git log` | Exibe o histórico de commits. |
 
-# outra modificação
+
+# outra modificação feita localmente
+
